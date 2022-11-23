@@ -26,9 +26,9 @@
             Chào mừng bạn đến với HATTO.BOX!
           </p>
           <p class="text-lg text-yellow-900 mb-3">
-              Cũng đi làm văn phòng, <span class="primary-text font-bold"> Hatto</span> hiểu được đời sống nơi làm việc đã trở
-            thành cuộc sống thứ 2 của chúng mình. Vậy thì mình phải chăm chút
-            bàn làm việc để tạo ra một không gian thoải mái giúp bạn tập trung
+              Đi làm văn phòng hơn 10 năm, <span class="primary-text font-bold"> Hatto</span> hiểu được đời sống nơi làm việc đã trở
+            thành cuộc sống thứ 2 của chúng ta. Vậy thì ta cũng phải chăm chút
+            bàn làm việc để tạo ra một không gian thoải mái giúp tập trung
             hơn, làm việc hiệu quả hơn và cũng như bảo vệ cơ thể tránh những ảnh
             hưởng xấu từ thói quen và tư thế làm việc chưa đúng.
           </p>
