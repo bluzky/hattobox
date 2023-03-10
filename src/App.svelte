@@ -52,11 +52,21 @@
           >
             <img src={shopee} class="w-12 md:w-16" alt="Shopee logo" />
             <span class="ml-4 flex items-start flex-col leading-none">
-              <span class="font-medium mb-1">HATTO.BOX</span>
+              <span class="font-medium mb-1">HATTO FOOD</span>
               <span class="title-font">Trên Shopee</span>
             </span>
           </a>
           <a
+            href="https://www.lazada.vn/shop/hatto-foods/"
+            class="bg-gray-100 inline-flex py-3 px-5 rounded-2xl ml-0 mt-5 md:ml-5 md:mt-0 items-center hover:border-emerald-600 border hover:bg-gray-200 focus:outline-none"
+          >
+            <img src={lazada} class="w-12 md:w-16" alt="Lazada logo" />
+            <span class="ml-4 flex items-start flex-col leading-none">
+              <span class="font-medium mb-1">HATTO FOOD</span>
+              <span class="title-font">Trên Lazada</span>
+            </span>
+          </a>
+<a
             href="https://www.lazada.vn/shop/hatto-box/"
             class="bg-gray-100 inline-flex py-3 px-5 rounded-2xl ml-0 mt-5 md:ml-5 md:mt-0 items-center hover:border-emerald-600 border hover:bg-gray-200 focus:outline-none"
           >
